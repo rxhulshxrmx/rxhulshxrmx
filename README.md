@@ -1,4 +1,4 @@
-![Header](./[header.png])
+<img src="https://github.com/rxhulshxrmx/rxhulshxrmx/blob/main/header.png">
 ### Hi there 👋
 
 - 🔭 I’m currently working on Reinforcement Learning
