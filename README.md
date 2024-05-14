@@ -1,3 +1,4 @@
+![Header](./[Your header image])
 ### Hi there 👋
 
 - 🔭 I’m currently working on Reinforcement Learning
