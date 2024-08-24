@@ -3,5 +3,5 @@
 Pursue BTech (CS) w/ Econ minor
 - 🔭 Expertise: Python, SQL
 - 🌱 Frameworks & Tools: Django, Tableau
-- 🔫 CP: [CodeForces](https://codeforces.com/profile/rxhulshxrmx), [Leetcode](https://leetcode.com/u/rxhulshxrmx/)
+- 🔫 Platforms: [Kaggle](https://www.kaggle.com/rxhulshxrmx), [CodeForces](https://codeforces.com/profile/rxhulshxrmx)
 - 🔭 Certifications and Guided Projects: [Coursera](https://www.coursera.org/learner/rxhulshxrmx)
