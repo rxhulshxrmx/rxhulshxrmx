@@ -7,7 +7,6 @@ Pursue BTech (CS) w/ Econ minor
 - 📚 Certifications and Guided Projects: [Coursera](https://www.coursera.org/learner/rxhulshxrmx)
 
 ### Project Library
-
 ### Machine Learning Projects
 |     | About | Repo | Live |
 | --------------- | ------- | -------| ------- |
