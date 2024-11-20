@@ -6,7 +6,7 @@ Pursue BTech (CS) w/ Econ minor
 - 🎯 Platforms: [Tableau](https://public.tableau.com/app/profile/rxhulshxrmx/vizzes), [CodeForces](https://codeforces.com/profile/rxhulshxrmx), [Kaggle](https://www.kaggle.com/rxhulshxrmx)
 - 📚 Certifications and Guided Projects: [Coursera](https://www.coursera.org/learner/rxhulshxrmx)
 
-## Project Library
+### Project Library
 |     | About |  Repo | Live |
 | --------------- | ------- | -------| ------- |
 | **Mint Classic Company**  | Car inventory insights with SQL and Tableau KPIs, optimizing stock and cost strategies. |  [x](https://github.com/rxhulshxrmx/mint_classic_company)   | [x](https://bit.ly/tableau_mint_classic)     |
