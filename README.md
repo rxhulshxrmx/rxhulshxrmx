@@ -20,9 +20,3 @@ Pursue BTech (CS) w/ Econ minor
 | **Mint Classic Company**  | Car inventory insights with SQL and Tableau KPIs, optimizing stock and cost strategies. | [x](https://github.com/rxhulshxrmx/mint_classic_company)   | [x](https://bit.ly/tableau_mint_classic)     |
 | **Otodom Data Analysis**  | ETL of Otodom real estate in Snowflake, revealing trends for affordable rentals and sales. | [x](https://github.com/rxhulshxrmx/otodom_data_analysis)   | [x](https://bit.ly/tableau_otodom_analysis)     |
 | **Hypothesis Testing**  | Performing hypothesis tests to determine if the adverse effects of a pharmaceutical drug are significant! | [x](https://github.com/rxhulshxrmx/hypothesis_testing)   | [x]()     |
-
-### Miscellaneous Projects
-|     | About | Repo | Live |
-| --------------- | ------- | -------| ------- |
-| **Word Frequency**  | Using web scraping and NLP to find the most frequent words in classic literature: Herman Melville's novel, Moby Dick. | [x](https://github.com/rxhulshxrmx/word_frequency)   | [x](https://rebeccashoptaw.dev/ask-oscar-wilde)     |
-| **Image Contrast Enhancer**  | Contrast Enhancement of Low-Light Images Using Histogram Equalization and Lighting Adjustment. | [x](https://github.com/rxhulshxrmx/image_contrast_enhancer)   | [x]()     |
