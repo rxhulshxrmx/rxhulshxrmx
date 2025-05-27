@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 Pursue BTech (CS) w/ Econ minor
 - 🔭 Expertise: Python, SQL
