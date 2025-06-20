@@ -21,6 +21,11 @@ Building scalable systems with data and backend engineering. Exploring design an
 [![Pandas][Pandas-icon]][Pandas-url] [![Polars][Polars-icon]][Polars-url] [![Apache Spark][Spark-icon]][Spark-url] [![MLflow][MLflow-icon]][MLflow-url]
 
 
+
+- **Resume** - [Rahul_Sharma_Resume.pdf](https://rebeccashoptaw.dev/Rebecca_Shoptaw_resume.pdf)
+- **Portfolio** - [rxhulshxr.mx](https://rxhulshxr.mx/)
+
+
 [Python-icon]: https://img.shields.io/badge/-Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB
 [Python-url]: https://www.python.org/
 [Go-icon]: https://img.shields.io/badge/-Go-20232A?style=for-the-badge&logo=go&logoColor=00ADD8
