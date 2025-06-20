@@ -11,9 +11,6 @@ Building scalable systems with data and backend engineering. Exploring design an
 **Languages & Frameworks**  
 [![Python][Python-icon]][Python-url] [![Go][Go-icon]][Go-url] [![JavaScript][JS-icon]][JS-url] [![FastAPI][FastAPI-icon]][FastAPI-url] 
 
-**Frontend & UI Libraries**  
-[![React][React-icon]][React-url] [![Next.js][Next-icon]][Next-url] [![Tailwind][Tailwind-icon]][Tailwind-url] [![Vite][Vite-icon]][Vite-url]
-
 **Mobile Development**  
 [![React Native][RN-icon]][RN-url] [![Swift][Swift-icon]][Swift-url]
 
@@ -22,9 +19,6 @@ Building scalable systems with data and backend engineering. Exploring design an
 
 **Data & ML**  
 [![Pandas][Pandas-icon]][Pandas-url] [![Polars][Polars-icon]][Polars-url] [![Apache Spark][Spark-icon]][Spark-url] [![MLflow][MLflow-icon]][MLflow-url]
-
-**Tools & DevOps**  
-[![Git][Git-icon]][Git-url] [![GitHub][GitHub-icon]][GitHub-url] [![Docker][Docker-icon]][Docker-url] [![Jest][Jest-icon]][Jest-url]
 
 
 [Python-icon]: https://img.shields.io/badge/-Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB
