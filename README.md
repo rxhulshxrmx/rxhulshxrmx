@@ -1,4 +1,4 @@
-##  About
+###  About
 
 Pursuing B.Tech in Computer Science with a minor in Economics  
 Building scalable systems with data and backend engineering. Exploring design and interactivity too.
@@ -7,7 +7,7 @@ Building scalable systems with data and backend engineering. Exploring design an
 - Platforms: [CodeForces](https://codeforces.com/profile/rxhulshxrmx), [Kaggle](https://www.kaggle.com/rxhulshxrmx), [Tableau](https://public.tableau.com/app/profile/rxhulshxrmx/vizzes)  
 - Certifications: [Coursera](https://www.coursera.org/learner/rxhulshxrmx), [DataCamp](https://www.datacamp.com/portfolio/rxhulshxrmx)
 
-## Tech Stack
+### Tech Stack
 
 **Languages & Frameworks**  
 [![Python][Python-icon]][Python-url] [![Go][Go-icon]][Go-url] [![JavaScript][JS-icon]][JS-url] [![FastAPI][FastAPI-icon]][FastAPI-url] 
