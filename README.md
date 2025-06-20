@@ -1,8 +1,9 @@
-## Hi there 👋
+##  About
 
 Pursuing B.Tech in Computer Science with a minor in Economics  
 Building scalable systems with data and backend engineering. Exploring design and interactivity too.
 
+- **Resume** - [Rahul_Sharma_Resume.pdf](https://rebeccashoptaw.dev/Rebecca_Shoptaw_resume.pdf)
 - Platforms: [CodeForces](https://codeforces.com/profile/rxhulshxrmx), [Kaggle](https://www.kaggle.com/rxhulshxrmx), [Tableau](https://public.tableau.com/app/profile/rxhulshxrmx/vizzes)  
 - Certifications: [Coursera](https://www.coursera.org/learner/rxhulshxrmx), [DataCamp](https://www.datacamp.com/portfolio/rxhulshxrmx)
 
@@ -20,10 +21,6 @@ Building scalable systems with data and backend engineering. Exploring design an
 **Data & ML**  
 [![Pandas][Pandas-icon]][Pandas-url] [![Polars][Polars-icon]][Polars-url] [![Apache Spark][Spark-icon]][Spark-url] [![MLflow][MLflow-icon]][MLflow-url]
 
-
-
-- **Resume** - [Rahul_Sharma_Resume.pdf](https://rebeccashoptaw.dev/Rebecca_Shoptaw_resume.pdf)
-- **Portfolio** - [rxhulshxr.mx](https://rxhulshxr.mx/)
 
 
 [Python-icon]: https://img.shields.io/badge/-Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB
