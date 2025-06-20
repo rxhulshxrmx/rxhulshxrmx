@@ -10,7 +10,7 @@ Building scalable systems with data and backend engineering. Exploring design an
 ## Tech Stack
 
 **Languages & Frameworks**  
-[![Python][Python-icon]][Python-url] [![Go][Go-icon]][Go-url] [![JavaScript][JS-icon]][JS-url] [![FastAPI][FastAPI-icon]][FastAPI-url] 
+[![Go][Go-icon]][Go-url] [![Python][Python-icon]][Python-url] [![JavaScript][JS-icon]][JS-url] [![FastAPI][FastAPI-icon]][FastAPI-url] 
 
 **Mobile Development**  
 [![React Native][RN-icon]][RN-url] [![Swift][Swift-icon]][Swift-url]
