@@ -10,9 +10,6 @@ Building scalable systems with data and backend engineering. Exploring design an
 **Languages & Frameworks**  
 [![Go][Go-icon]][Go-url] [![Python][Python-icon]][Python-url] [![JavaScript][JS-icon]][JS-url] [![FastAPI][FastAPI-icon]][FastAPI-url] 
 
-**Mobile Development**  
-[![React Native][RN-icon]][RN-url] [![Swift][Swift-icon]][Swift-url]
-
 **Databases**  
 [![PostgreSQL][Postgres-icon]][Postgres-url] [![Redis][Redis-icon]][Redis-url]
 
