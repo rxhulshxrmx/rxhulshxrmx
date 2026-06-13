@@ -4,6 +4,8 @@ Pursuing B.Tech in Computer Science with a minor in Economics
 Building scalable systems with data and backend engineering. Exploring design and interactivity too.
 - Platforms: [CodeForces](https://codeforces.com/profile/rxhulshxrmx), [Kaggle](https://www.kaggle.com/rxhulshxrmx), [Tableau](https://public.tableau.com/app/profile/rxhulshxrmx/vizzes)  
 
+<img width="1273" height="284" alt="image" src="https://github.com/user-attachments/assets/31b41eea-7419-4bd7-a36f-fa3899f97c33" />
+
 ## Tech Stack
 
 **Languages & Frameworks**  
