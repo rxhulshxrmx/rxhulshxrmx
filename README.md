@@ -5,7 +5,7 @@ Building scalable systems with data and backend engineering. Exploring design an
 - Platforms: [CodeForces](https://codeforces.com/profile/rxhulshxrmx), [Kaggle](https://www.kaggle.com/rxhulshxrmx), [Tableau](https://public.tableau.com/app/profile/rxhulshxrmx/vizzes)  
 - Certifications: [Coursera](https://www.coursera.org/learner/rxhulshxrmx), [DataCamp](https://www.datacamp.com/portfolio/rxhulshxrmx)
 
-<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/e53b3fbf-784c-4c29-9af9-cb301331c21a" />
+<img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/f5724afc-85ce-4987-9204-412bf6ff9635" />
 
 
 ## Tech Stack
