@@ -1,7 +1,6 @@
 ## About
 
-Building production-grade agentic AI systems at EY, B.Tech in Computer Science with a minor in Economics.
-Exploring design and interactivity too.
+Building agentic AI systems at EY, Bachelor's in Computer Science with a minor in Economics.
 
 ## Tech Stack
 
