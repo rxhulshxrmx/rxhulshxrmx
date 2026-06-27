@@ -16,10 +16,6 @@ Exploring design and interactivity too.
 **Data & ML**  
 [![Pandas][Pandas-icon]][Pandas-url] [![Polars][Polars-icon]][Polars-url] [![Apache Spark][Spark-icon]][Spark-url] [![MLflow][MLflow-icon]][MLflow-url] [![PyTorch][PyTorch-icon]][PyTorch-url] [![LangChain][LangChain-icon]][LangChain-url] [![Google ADK][GADK-icon]][GADK-url]
 
-**DevOps**  
-[![Docker][Docker-icon]][Docker-url]
-
-
 
 [CPP-icon]: https://img.shields.io/badge/-C++-20232A?style=for-the-badge&logo=cplusplus&logoColor=00599C
 [CPP-url]: https://isocpp.org/
