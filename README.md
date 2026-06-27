@@ -3,8 +3,6 @@
 Building production-grade agentic AI systems at EY, B.Tech in Computer Science with a minor in Economics.
 Exploring design and interactivity too.
 
-- Platforms: [CodeForces](https://codeforces.com/profile/rxhulshxrmx), [Kaggle](https://www.kaggle.com/rxhulshxrmx), [Tableau](https://public.tableau.com/app/profile/rxhulshxrmx/vizzes)
-
 ## Tech Stack
 
 **Languages & Frameworks**  
