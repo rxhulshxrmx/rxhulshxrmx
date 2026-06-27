@@ -5,7 +5,7 @@ Building agentic AI systems at EY, Bachelor's in Computer Science with a minor i
 ## Tech Stack
 
 **Languages & Frameworks**  
-[![C++][CPP-icon]][CPP-url] [![Python][Python-icon]][Python-url] [![JavaScript][JS-icon]][JS-url] [![TypeScript][TS-icon]][TS-url] [![Swift][Swift-icon]][Swift-url] [![React][React-icon]][React-url] [![FastAPI][FastAPI-icon]][FastAPI-url]
+[![C++][CPP-icon]][CPP-url] [![Python][Python-icon]][Python-url] [![JavaScript][JS-icon]][JS-url] [![TypeScript][TS-icon]][TS-url] [![React][React-icon]][React-url] [![FastAPI][FastAPI-icon]][FastAPI-url]
 
 **Databases**  
 [![SAP HANA][HANA-icon]][HANA-url] [![PostgreSQL][Postgres-icon]][Postgres-url] [![Redis][Redis-icon]][Redis-url] 
