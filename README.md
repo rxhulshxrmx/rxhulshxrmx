@@ -11,7 +11,7 @@ Building agentic AI systems at EY, Bachelor's in Computer Science with a minor i
 [![SAP HANA][HANA-icon]][HANA-url] [![PostgreSQL][Postgres-icon]][Postgres-url] [![Redis][Redis-icon]][Redis-url] 
 
 **Data & ML**  
-[![Google ADK][GADK-icon]][GADK-url] [![LangChain][LangChain-icon]][LangChain-url] [![PyTorch][PyTorch-icon]][PyTorch-url] [![MLflow][MLflow-icon]][MLflow-url] [![Apache Spark][Spark-icon]][Spark-url] [![Pandas][Pandas-icon]][Pandas-url]
+[![Google ADK][GADK-icon]][GADK-url] [![PyTorch][PyTorch-icon]][PyTorch-url] [![MLflow][MLflow-icon]][MLflow-url] [![Apache Spark][Spark-icon]][Spark-url] [![Pandas][Pandas-icon]][Pandas-url]
 
 [CPP-icon]: https://img.shields.io/badge/-C++-20232A?style=for-the-badge&logo=cplusplus&logoColor=00599C
 [CPP-url]: https://isocpp.org/
