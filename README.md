@@ -1,7 +1,7 @@
 ##  About
 
-Pursuing B.Tech in Computer Science with a minor in Economics  
-Building scalable systems with data and backend engineering. Exploring design and interactivity too.
+Building production grade agentic AI systems at EY, Bachelor's in Computer Science with a minor in Economics.   
+Exploring design and interactivity too.
 - Platforms: [CodeForces](https://codeforces.com/profile/rxhulshxrmx), [Kaggle](https://www.kaggle.com/rxhulshxrmx), [Tableau](https://public.tableau.com/app/profile/rxhulshxrmx/vizzes)  
 
 ## Tech Stack
