@@ -5,13 +5,13 @@ Building agentic AI systems at EY, Bachelor's in Computer Science with a minor i
 ## Tech Stack
 
 **Languages & Frameworks**  
-[![Python][Python-icon]][Python-url] [![JavaScript][JS-icon]][JS-url] [![TypeScript][TS-icon]][TS-url] [![React][React-icon]][React-url] [![FastAPI][FastAPI-icon]][FastAPI-url]
+[![Python][Python-icon]][Python-url] [![FastAPI][FastAPI-icon]][FastAPI-url]
 
 **Databases**  
 [![SAP HANA][HANA-icon]][HANA-url] [![PostgreSQL][Postgres-icon]][Postgres-url] [![Redis][Redis-icon]][Redis-url] 
 
 **Data & ML**  
-[![Google ADK][GADK-icon]][GADK-url] [![PyTorch][PyTorch-icon]][PyTorch-url] [![MLflow][MLflow-icon]][MLflow-url] [![Apache Spark][Spark-icon]][Spark-url] [![Pandas][Pandas-icon]][Pandas-url]
+[![Google ADK][GADK-icon]][GADK-url] [![Pandas][Pandas-icon]][Pandas-url]
 
 [CPP-icon]: https://img.shields.io/badge/-C++-20232A?style=for-the-badge&logo=cplusplus&logoColor=00599C
 [CPP-url]: https://isocpp.org/
